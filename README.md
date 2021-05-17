@@ -37,4 +37,3 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordaoqualho&" alt="jordaoqualho" /></p>
 
 ----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordaoqualho&label=Profile%20views&color=0e75b6&style=flat" alt="jordaoqualho" /> </p>   
