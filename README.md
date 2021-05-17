@@ -1,4 +1,4 @@
-### 👋 Hello World, Eu sou Jordão!  
+### 👋 Hello World
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5544998763111">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
@@ -13,7 +13,7 @@
 
 ---- 
 
-Oi, meu nome é Jordão Qualho, mas pode me chamar de **Jor**
+Oi, meu nome é Jordão Qualho, mas pode me chamar de ***Jor***
 
 Sou um desenvolvedor javascript focado no Front-end, mas também tenho um pézinho no Back-end, tenho **23 Anos** and **2 years of programando**.
 
@@ -31,6 +31,7 @@ Sou um desenvolvedor javascript focado no Front-end, mas também tenho um pézin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/react-native.png"></code>
 
 ----
 
