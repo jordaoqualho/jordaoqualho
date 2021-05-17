@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Ary!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello World, Eu sou Jordão!  
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5544998763111">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
@@ -13,9 +13,9 @@
 
 ---- 
 
-Oi, meu nome é **Jordão Qualho**
+Oi, meu nome é Jordão Qualho, mas pode me chamar de **Jor**
 
-I'm a Front-end Typescript Developer from Brazil 💚, **22 years old** 👶🏻 and **8 years of coding** 🧐. 
+Sou um desenvolvedor javascript focado no Front-end, mas também tenho um pézinho no Back-end, tenho **23 Anos** and **2 years of programando**.
 
 **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
 
