@@ -1,16 +1,12 @@
-### Hi there 👋
+## Olá pessoal 👋
+Sou apaixonado por tecnologia, desenvolvimento web e principalmente ajudar pessoas! :computer:
 
-<!--
-**jordaoqualho/jordaoqualho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ :rocket:  &nbsp; Estou trabalhando na **Romagnole Produtos Elétricos**
+ <br/><br/> :purple_heart: &nbsp; Desenvolvimento web
+ <br/><br/> :blush: &nbsp; Posso te ajudar com desenvolvimento de sites e apps
+ <br/><br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, ReactJS, Node.js, React Native
+ <br/><br/> 💬  &nbsp; Sobre mim: Curto tecnologias :iphone: viagens :airplane: e futebol :soccer:
+ <br/><br/> :email: &nbsp; Entre em contato comigo: 
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-marcelinhomgo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordaoqualho@gmail.com)](mailto:jordaoqualho@gmail.com)
