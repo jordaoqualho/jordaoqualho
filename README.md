@@ -1,7 +1,7 @@
 ## Olá pessoal 👋
 Sou apaixonado por tecnologia, desenvolvimento web e principalmente ajudar pessoas! :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Romagnole Produtos Elétricos**
+ :rocket:  &nbsp; Estou trabalhando na **Lorena Felicio Confeitaria Artística**
  <br/><br/> :purple_heart: &nbsp; Desenvolvimento web
  <br/><br/> :blush: &nbsp; Posso te ajudar com desenvolvimento de sites e apps
  <br/><br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, ReactJS, Node.js, React Native
@@ -9,4 +9,4 @@ Sou apaixonado por tecnologia, desenvolvimento web e principalmente ajudar pesso
  <br/><br/> :email: &nbsp; Entre em contato comigo: 
  
 
-[![Gmail Badge](https://img.shields.io/badge/-marcelinhomgo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordaoqualho@gmail.com)](mailto:jordaoqualho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jordaoqualho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordaoqualho@gmail.com)](mailto:jordaoqualho@gmail.com)
