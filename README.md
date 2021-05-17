@@ -12,7 +12,7 @@ Apaixonado por **um bom livro** 📕, **música** 🎸 and a good **video-game p
 **Meus contatos:**
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5544998763111">
-  <img align="left" alt="Whatsapp" width="22px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.instagram.com/jordaoqualho/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
