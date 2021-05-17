@@ -19,5 +19,5 @@ Sou apaixonado por tecnologia, desenvolvimento web e principalmente ajudar pesso
 </a>
 
 
-![jordaoqualho GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![jordaoqualho GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordaoqualho&show_icons=true)
 
