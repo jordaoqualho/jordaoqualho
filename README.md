@@ -31,15 +31,13 @@ Apaixoando por **um bom livro** 📕, **música** 🎸 and a good **video-game p
 
 ---- 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordaoqualho&show_icons=true&locale=en&layout=compact" alt="jordaoqualho" /></p>
-
+#### Veja meus status no Github 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordaoqualho&show_icons=true&locale=en" alt="jordaoqualho" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordaoqualho&show_icons=true&locale=en&layout=compact" alt="jordaoqualho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordaoqualho&" alt="jordaoqualho" /></p>
 
 ---- 
 
 
-#### Veja meus status no Github 
    
-![Jordão GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordaoqualho&show_icons=true)
