@@ -10,19 +10,6 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 * 💼 Trabalho na **Lorena Felicio Confeitaria Artística**
 * 🚀 Sempre aprendendo novas tecnolgias.
 
-**Entre em contato!**
-
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5544998763111">
-  <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a target="_blank" href="https://www.instagram.com/jordaoqualho/">
-  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a target="_blank" href="mailto:jordaoqualho@gmail.com">
-  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</br>
-
 ----
 
 ### **Linguagens e ferramentas**  
@@ -35,3 +22,18 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordaoqualho&show_icons=true&locale=en&layout=compact" alt="jordaoqualho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordaoqualho&" alt="jordaoqualho" /></p>
+
+----
+
+**Entre em contato!**
+
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5544998763111">
+  <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a target="_blank" href="https://www.instagram.com/jordaoqualho/">
+  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a target="_blank" href="mailto:jordaoqualho@gmail.com">
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</br>
