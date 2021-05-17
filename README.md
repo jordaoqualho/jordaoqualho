@@ -1,5 +1,16 @@
 ### 👋 Hello World
 
+Oi, meu nome é Jordão Qualho, mas pode me chamar de ***Jor***
+
+Sou um desenvolvedor javascript focado no Front-end, mas também tenho um pézinho no Back-end, tenho **23 Anos** and **2 anos de código**.
+
+Apaixoando por **um bom livro** 📕, **música** 🎸 and a good **video-game player** 🎮.
+
+* 💫 Always aiming at **usability** and **code performance** at all costs. 
+* 👽 Sempre aprendendo novas tecnolgias.
+
+**Meus contatos:**
+
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5544998763111">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
@@ -10,17 +21,6 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
-
----- 
-
-Oi, meu nome é Jordão Qualho, mas pode me chamar de ***Jor***
-
-Sou um desenvolvedor javascript focado no Front-end, mas também tenho um pézinho no Back-end, tenho **23 Anos** and **2 years of programando**.
-
-Apaixoando por **um bom livro** 📕, **música** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
-
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
 
 ----
 
@@ -36,8 +36,5 @@ Apaixoando por **um bom livro** 📕, **música** 🎸 and a good **video-game p
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordaoqualho&" alt="jordaoqualho" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordaoqualho&label=Profile%20views&color=0e75b6&style=flat" alt="jordaoqualho" /> </p>
-
----- 
-
-   
+----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordaoqualho&label=Profile%20views&color=0e75b6&style=flat" alt="jordaoqualho" /> </p>   
