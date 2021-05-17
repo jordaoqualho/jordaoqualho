@@ -1,7 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordaoqualho&label=Profile%20views&color=0e75b6&style=flat" alt="jordaoqualho" /> </p>
-
----- 
-
 ### 👋 Hello World
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5544998763111">
@@ -40,6 +36,8 @@ Apaixoando por **um bom livro** 📕, **música** 🎸 and a good **video-game p
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordaoqualho&" alt="jordaoqualho" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordaoqualho&label=Profile%20views&color=0e75b6&style=flat" alt="jordaoqualho" /> </p>
 
+---- 
 
    
