@@ -6,7 +6,7 @@ Sou um desenvolvedor javascript focado no Front-end com um pézinho no Back-end,
 
 Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 
-* 🎓 Atualmente no ultimo ano de **Engenharia de software** na **UniCesumar - Maringá**.
+* 🎓 Atualmente no último ano de **Engenharia de software** na **UniCesumar - Maringá**.
 * 💼 Trabalho na **Lorena Felicio Confeitaria Artística**
 * 🚀 Sempre aprendendo novas tecnolgias.
 
