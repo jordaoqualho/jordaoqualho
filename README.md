@@ -31,7 +31,6 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 
 ---- 
 
-### Veja meus status no Github 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordaoqualho&show_icons=true&locale=en" alt="jordaoqualho" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordaoqualho&show_icons=true&locale=en&layout=compact" alt="jordaoqualho" /></p>
 
