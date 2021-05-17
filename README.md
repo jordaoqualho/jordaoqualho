@@ -24,8 +24,7 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordaoqualho&" alt="jordaoqualho" /></p>
 
 ----
-
-**Entre em contato!**
+### **Entre em contato!**
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5544998763111">
   <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
