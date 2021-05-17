@@ -1,8 +1,10 @@
 ### 👋 Hello World
 
 Oi, meu nome é Jordão Qualho, mas pode me chamar de **Jor**
+
 Sou um desenvolvedor javascript focado no Front-end, com um pézinho no Back-end, tenho **23 Anos** e **2 anos de código**.
-Apaixonado por **um bom livro** 📕, **música** 🎸 e um bom **xadrez** :eyeglasses:.
+
+Apaixonado por **livros interessantes** 📕, **música** 🎸 e um bom **xadrez** :eyeglasses:.
 
 * :books: Atualmente no ultimo ano de **Engenharia de software** ma **UniCesumar - Maringá**.
 * :computer: Sempre aprendendo novas tecnolgias.
