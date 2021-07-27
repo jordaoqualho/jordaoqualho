@@ -2,7 +2,7 @@
 
 Oi, meu nome é Jordão Qualho, mas pode me chamar de **Jor**
 
-Sou um desenvolvedor javascript focado no Front-end com um pezinho no Back-end, tenho ⌛ **23 Anos** e 💻 **2 anos de código**. 
+Sou um desenvolvedor full stack (React.js + Node.js), tenho ⌛ **23 Anos** e 💻 **2 anos de código**. 
 
 Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 
