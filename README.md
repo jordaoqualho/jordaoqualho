@@ -7,7 +7,7 @@ Sou um desenvolvedor full stack (React.js + Node.js), tenho ⌛ **23 Anos** e �
 Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 
 * 🎓 Atualmente no último semestre de **Engenharia de software** na **UniCesumar - Maringá**.
-* 💼 Trabalhando na **CRIA** como fullStack
+* 💼 Trabalhando na **CRIA** como desenvolvedor fullStack (Next.js + Node.js)
 * 🚀 Sempre aprendendo novas tecnologias.
 
 ----
