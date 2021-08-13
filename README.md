@@ -41,7 +41,8 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="spring" width="40" height="40" />
   </a>
-  </p>
+</p>
+  
 ---- 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordaoqualho&show_icons=true&locale=en" alt="jordaoqualho" /></p>
@@ -50,6 +51,7 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordaoqualho&" alt="jordaoqualho" /></p>
 
 ----
+
 ### **Entre em contato!**
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5544998763111">
