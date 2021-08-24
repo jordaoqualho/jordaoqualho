@@ -54,7 +54,7 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 
 ### **Entre em contato!**
 
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5544998763111">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5544997000617">
   <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.instagram.com/jordaoqualho/">
