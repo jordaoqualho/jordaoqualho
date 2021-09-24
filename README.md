@@ -9,7 +9,7 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 * 🎓 Atualmente no último semestre de **Engenharia de software** na **UniCesumar - Maringá**.
 * 💼 Trabalhando na **CRIA** como desenvolvedor fullStack (Next.js + Node.js)
 * 🚀 Sempre aprendendo novas tecnologias.
-* 
+
 <br/>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5544997000617">
