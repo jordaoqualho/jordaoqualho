@@ -60,4 +60,15 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 <a target="_blank" href="mailto:jordaoqualho@gmail.com">
   <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a target="_blank" href="https://discordapp.com/users/669384442196000768">
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/jord%C3%A3o-qualho-50557819b/">
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a target="_blank" href="https://dribbble.com/JordaoQualho">
+  <img align="left" alt="Gmail" src="	https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+</a>
+
+
 </br>
