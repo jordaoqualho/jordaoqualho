@@ -1,6 +1,6 @@
 ### 👋 Hello World
 
-Oi, meu nome é Jordão Qualho, mas pode me chamar de **Jor**
+Oi, meu nome é **Jordão Qualho**
 
 Sou um desenvolvedor fullstack, tenho ⌛ **23 Anos** e 💻 **2 anos de código**. 
 
