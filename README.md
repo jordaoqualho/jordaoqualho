@@ -30,8 +30,7 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
   <img align="left" alt="Drible" src="	https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
-
-
+<br/>
 
 ----
 
