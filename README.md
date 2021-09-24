@@ -9,10 +9,8 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 * 🎓 Atualmente no último semestre de **Engenharia de software** na **UniCesumar - Maringá**.
 * 💼 Trabalhando na **CRIA** como desenvolvedor fullStack (Next.js + Node.js)
 * 🚀 Sempre aprendendo novas tecnologias.
-
-----
-
-### **Entre em contato!**
+* 
+<br/>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5544997000617">
   <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -27,7 +25,7 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://dribbble.com/JordaoQualho">
-  <img align="left" alt="Drible" src="	https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  <img align="left" alt="Drible" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
 <br/>
