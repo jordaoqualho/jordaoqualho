@@ -70,5 +70,3 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordaoqualho&" alt="jordaoqualho" /></p>
 
-----
-
