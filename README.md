@@ -2,7 +2,7 @@
 
 Oi, meu nome é **Jordão Qualho**
 
-Sou um desenvolvedor fullstack, tenho ⌛ **23 Anos** e 💻 **2 anos de código**. 
+Sou um desenvolvedor fullstack, tenho ⌛ **24 Anos** e 💻 **2 anos de código**. 
 
 Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 
