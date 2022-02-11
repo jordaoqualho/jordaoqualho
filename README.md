@@ -2,12 +2,12 @@
 
 Oi, meu nome é **Jordão Qualho**
 
-Sou um desenvolvedor fullstack, tenho ⌛ **24 Anos** e 💻 **2 anos de código**. 
+Sou um desenvolvedor fullstack, tenho ⌛ **24 Anos** e 💻 **3 anos de código**. 
 
 Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 
 * 🎓 Atualmente no último semestre de **Engenharia de software** na **UniCesumar - Maringá**.
-* 💼 Trabalhando na **CRIA** como desenvolvedor fullStack (Next.js + Node.js)
+* 💼 Trabalhando no Grupo SOMA como desenvolvedor fullstack pleno. 
 * 🚀 Sempre aprendendo novas tecnologias.
 
 <br/>
