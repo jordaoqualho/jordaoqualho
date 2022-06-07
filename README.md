@@ -30,6 +30,7 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 
 
 
+
 <br/>
 
 ----
@@ -63,7 +64,17 @@ Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="spring" width="40" height="40" />
   </a>
+  <a href="https://newrelic.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-ar21.svg" alt="newrelic" width="80" height="40" />
+  </a>
+  <a href="https://analytics.google.com/analytics/web/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21~old.svg" alt="analitcs" width="80" height="40" />
+  </a>  
+    <a href="[https://analytics.google.com/analytics/web/](https://firebase.google.com/?hl=pt-br)" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="80" height="40" />
+  </a> 
 </p>
+
   
 ---- 
 
