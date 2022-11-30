@@ -1,14 +1,14 @@
 ### 👋 Hello World
 
-Oi, meu nome é **Jordão Qualho**
+Hi, my name is **Jordão Qualho**
 
-Sou um desenvolvedor fullstack, codando desde 2020 com js.
+I am a fullstack developer, coding since 2020 with javascript.
 
-Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
+Passionate about 📚 **books**, 🎶 **music** and a good ♟️ **chess**. 
 
-* 🎓 Atualmente no último semestre de **Engenharia de software** na **UniCesumar - Maringá**.
-* 💼 Trabalhando na Voyager Portal Engenheiro de Software. 
-* 🚀 Sempre aprendendo novas tecnologias.
+* 🖥️ Main Stack: React.js, Node.js, MongoDB/MySQL.
+* 💼 Working Voyager Portal as a Software engineer.
+* 🚀 Always open to learn new technologies. 
 
 <br/>
 
