@@ -2,12 +2,12 @@
 
 Oi, meu nome é **Jordão Qualho**
 
-Sou um desenvolvedor fullstack, tenho ⌛ **24 Anos** e 💻 **3 anos de código**. 
+Sou um desenvolvedor fullstack, codando desde 2020 com js.
 
 Apaixonado por 📚 **livros**, 🎶 **música**  e um bom ♟️ **xadrez**
 
 * 🎓 Atualmente no último semestre de **Engenharia de software** na **UniCesumar - Maringá**.
-* 💼 Trabalhando no Grupo SOMA como desenvolvedor fullstack pleno. 
+* 💼 Trabalhando na Voyager Portal Engenheiro de Software. 
 * 🚀 Sempre aprendendo novas tecnologias.
 
 <br/>
