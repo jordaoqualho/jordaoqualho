@@ -35,7 +35,7 @@ Passionate about 📚 **books**, 🎶 **music** and a good ♟️ **chess**.
 
 ----
 
-### **Skills**  
+### **Already worked with**  
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
