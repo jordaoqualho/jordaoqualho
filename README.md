@@ -1,14 +1,28 @@
 ### 👋 Hello World
 
-Hi, my name is **Jordão Qualho**
 
-I am a fullstack developer, coding since 2020 with javascript.
+Hi there, my name is 
+<a href="https://jordaoqualho.com" target="_blank">
+    **Jordão Qualho**
+  </a>
 
-Passionate about 📚 **books**, 🎶 **music** and a good ♟️ **chess**. 
 
-* 🖥️ Main Stack: React.js, Node.js, MongoDB/MySQL.
-* 💼 Working Voyager Portal as a Software engineer.
-* 🚀 Always open to learn new technologies. 
+
+I am a skilled Full-Stack Software Engineer specializing in JavaScript development since 2020.
+
+As a software engineer, I have honed my skills in web application development, particularly with Node.js and React.js. 
+I am passionate about building scalable, high-performance, and user-friendly applications that meet the needs of end-users.
+
+Here are some highlights of my background:
+
+* 💼 Currently working as a Full-Stack Software Engineer at Voyager Portal
+
+* 🚀 Skills: Proficient in JavaScript, Node.js, React.js, Next.js, Vue.js, HTML, CSS, MongoDB, and MySQL.
+
+* 🎓 Bachelor's degree in Software Engineering (last semester)
+
+* 🏆 Accomplishment: As a solo fullstack developer, I successfully designed and developed an ERP system for a confectionary company. The system was seamlessly integrated with the government API for fiscal notes emission. This accomplishment required a deep understanding of software development methodologies and programming languages, as well as an ability to work independently and meet tight deadlines. The ERP system has resulted in significant cost savings and improved efficiency for the company.
+
 
 <br/>
 
