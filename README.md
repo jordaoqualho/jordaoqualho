@@ -13,7 +13,7 @@ with a demonstrated history of delivering impactful software solutions.
 
 Here are some highlights of my background:
 
-* 💼 Currently looking for job as a Full-Stack Software Engineer 
+* 💼 Currently working at ROIT as a Full-Stack Software Engineer 
 
 * 🚀 Skills: Proficient in JavaScript, Node.js, React.js, Next.js, Vue.js, HTML, CSS, MongoDB, and MySQL.
 
