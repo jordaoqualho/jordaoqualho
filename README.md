@@ -7,13 +7,13 @@ Hi there, my name is
   </a>
 
 
+As a results-driven Fullstack Developer with over 4 years of hands-on experience, I maintain a strong JavaScript focus and a well-documented history of delivering impactful software solutions. Among my notable accomplishments is the creation of an ERP system from scratch, underscoring my proficiency in diverse software infrastructures and frameworks.
 
-I am a passionate and results-driven Fullstack Developer specializing in React and Node.js 
-with a demonstrated history of delivering impactful software solutions.
+My experience extends to cloud platforms, including Google Cloud Platform (GCP) and Amazon Web Services (AWS). I've also worker with Nest.js, Vue.js, React, and Next.js to engineer solutions for a diverse projects. Additionally, my experience spans both non-relational and relational databases, rendering me a versatile developer capable of meeting a wide array of technical challenges.
 
 Here are some highlights of my background:
 
-* 💼 Currently working at ROIT as a Full-Stack Software Engineer 
+* 💼 Currently looking for new opportunities as a Full-Stack Software Engineer 
 
 * 🚀 Skills: Proficient in JavaScript, Node.js, React.js, Next.js, Vue.js, HTML, CSS, MongoDB, and MySQL.
 
