@@ -1,24 +1,14 @@
 ### 👋 Hello World
 
+I am a fullstack developer with over 4 years of experience in JavaScript/TypeScript, having worked in various companies across different sectors in both Brazil and the USA.
 
-Hi there, my name is 
-<a href="https://jordaoqualho.com" target="_blank">
-    **Jordão Qualho**
-  </a>
+Here are some characteristics that have set me apart in the companies I've worked for:
 
+* 💼 **Diverse Experience**: I've worked on projects in various fields such as Architecture, Accounting, E-commerce, Maritime Transport, and Fintech, which allowed me to face numerous unique challenges.
 
-As a results-driven Fullstack Developer with over 4 years of hands-on experience, I maintain a strong JavaScript focus and a well-documented history of delivering impactful software solutions. Among my notable accomplishments is the creation of an ERP system from scratch, underscoring my proficiency in diverse software infrastructures and frameworks.
+* 🚀 **Adaptability**: To solve these problems, I had to adapt to different frameworks used by each company, such as Vue, React, Next, Nest, and Adonis. Additionally, I have experience with AWS and GCP, as well as relational databases like MySQL and PostgreSQL, and non-relational ones like Redis and MongoDB.
 
-My experience extends to cloud platforms, including Google Cloud Platform (GCP) and Amazon Web Services (AWS). I've also worker with Nest.js, Vue.js, React, and Next.js to engineer solutions for a diverse projects. Additionally, my experience spans both non-relational and relational databases, rendering me a versatile developer capable of meeting a wide array of technical challenges.
-
-Here are some highlights of my background:
-
-* 💼 Currently looking for new opportunities as a Full-Stack Software Engineer 
-
-* 🚀 Skills: Proficient in JavaScript, Node.js, React.js, Next.js, Vue.js, HTML, CSS, MongoDB, and MySQL.
-
-* 🎓 Bachelor's degree in Software Engineering (last semester)
-
+* 🎓 **Responsibility**: I was responsible for developing and designing two systems from scratch: a basic ERP for a company and an RPG character sheet manager, both of which are still in use today, demonstrating my ability to help people with my technical and practical knowledge.
 
 
 <br/>
