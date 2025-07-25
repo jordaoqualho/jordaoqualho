@@ -1,6 +1,6 @@
 ### 👋 Hello World
 
-I am a fullstack developer with over 5 years of experience in JavaScript/TypeScript, having worked in various companies across different sectors in both Brazil and the USA.
+I am a Full Stack Engineer with over 5 years of experience in JavaScript/TypeScript, having worked in various companies across different sectors in both Brazil and the USA.
 
 Here are some characteristics that have set me apart in the companies I've worked for:
 
